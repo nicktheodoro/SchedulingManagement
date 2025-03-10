@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lm1zL3uxC2Q=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\projects\\SchedulingManagement\\SchedulingManagement.Domain\\SchedulingManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
